@@ -1,1 +1,1 @@
-india is great
+console.log ("Hello India") ;
